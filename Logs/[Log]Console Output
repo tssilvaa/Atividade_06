@@ -1,0 +1,73 @@
+Conectando com o JDBC
+Lista Original de Produtos
+1 -- Calular Galaxy S10 -- 128 Gb, Preto, com carregador -- 1250.0 -- Poucos riscos, esdo de novo
+2 -- Prod2 -- Bla bla -- 1100.0 -- Bla bla
+3 -- Prod3 -- Bla bla -- 120.0 -- Bla bla
+4 -- Prod4 -- Bla bla -- 1300.0 -- Bla bla
+5 -- Prod5 -- Bla bla -- 9400.0 -- Bla bla
+6 -- Prod6 -- Bla bla -- 1500.0 -- Bla bla
+
+Lista com Novo Produto
+1 -- Calular Galaxy S10 -- 128 Gb, Preto, com carregador -- 1250.0 -- Poucos riscos, esdo de novo
+2 -- Prod2 -- Bla bla -- 1100.0 -- Bla bla
+3 -- Prod3 -- Bla bla -- 120.0 -- Bla bla
+4 -- Prod4 -- Bla bla -- 1300.0 -- Bla bla
+5 -- Prod5 -- Bla bla -- 9400.0 -- Bla bla
+6 -- Prod6 -- Bla bla -- 1500.0 -- Bla bla
+7 -- Prod7 -- Bla Bla -- 500.0 -- Bla Bla
+
+Lista com Valor do Produto Alterado
+1 -- Calular Galaxy S10 -- 128 Gb, Preto, com carregador -- 1250.0 -- Poucos riscos, esdo de novo
+2 -- Prod2 -- Bla bla -- 1100.0 -- Bla bla
+3 -- Prod3 -- Bla bla -- 120.0 -- Bla bla
+4 -- Prod4 -- Bla bla -- 1300.0 -- Bla bla
+5 -- Prod5 -- Bla bla -- 9400.0 -- Bla bla
+6 -- Prod6 -- Bla bla -- 1500.0 -- Bla bla
+7 -- Prod7 -- Bla Bla -- 400.0 -- Bla Bla
+
+Apaga Produto Número 7
+Volta a Lista Original de Produtos
+1 -- Calular Galaxy S10 -- 128 Gb, Preto, com carregador -- 1250.0 -- Poucos riscos, esdo de novo
+2 -- Prod2 -- Bla bla -- 1100.0 -- Bla bla
+3 -- Prod3 -- Bla bla -- 120.0 -- Bla bla
+4 -- Prod4 -- Bla bla -- 1300.0 -- Bla bla
+5 -- Prod5 -- Bla bla -- 9400.0 -- Bla bla
+6 -- Prod6 -- Bla bla -- 1500.0 -- Bla bla
+
+===================================
+
+Conectando com o MongoDB
+Lista Original de Produtos
+Calular Galaxy S10 -- 128 Gb, Preto, com carregador -- 1250.0 -- Poucos riscos, estado de novo
+Prod2 -- Bla bla -- 1100.0 -- Bla bla
+Prod3 -- Bla bla -- 120.0 -- Bla bla
+Prod4 -- Bla bla -- 1300.0 -- Bla bla
+Prod5 -- Bla bla -- 9400.0 -- Bla bla
+Prod6 -- Bla bla -- 1500.0 -- Bla bla
+
+Lista com Novo Produto
+Calular Galaxy S10 -- 128 Gb, Preto, com carregador -- 1250.0 -- Poucos riscos, estado de novo
+Prod2 -- Bla bla -- 1100.0 -- Bla bla
+Prod3 -- Bla bla -- 120.0 -- Bla bla
+Prod4 -- Bla bla -- 1300.0 -- Bla bla
+Prod5 -- Bla bla -- 9400.0 -- Bla bla
+Prod6 -- Bla bla -- 1500.0 -- Bla bla
+Prod7 -- Bla Bla -- 500.0 -- Bla Bla
+
+Lista com Valor do Produto Alterado
+Calular Galaxy S10 -- 128 Gb, Preto, com carregador -- 1250.0 -- Poucos riscos, estado de novo
+Prod2 -- Bla bla -- 1100.0 -- Bla bla
+Prod3 -- Bla bla -- 120.0 -- Bla bla
+Prod4 -- Bla bla -- 1300.0 -- Bla bla
+Prod5 -- Bla bla -- 9400.0 -- Bla bla
+Prod6 -- Bla bla -- 1500.0 -- Bla bla
+Prod7 -- Bla Bla -- 400.0 -- Bla Bla
+
+Apaga Produto Número 7
+Volta a Lista Original de Produtos
+Calular Galaxy S10 -- 128 Gb, Preto, com carregador -- 1250.0 -- Poucos riscos, estado de novo
+Prod2 -- Bla bla -- 1100.0 -- Bla bla
+Prod3 -- Bla bla -- 120.0 -- Bla bla
+Prod4 -- Bla bla -- 1300.0 -- Bla bla
+Prod5 -- Bla bla -- 9400.0 -- Bla bla
+Prod6 -- Bla bla -- 1500.0 -- Bla bla

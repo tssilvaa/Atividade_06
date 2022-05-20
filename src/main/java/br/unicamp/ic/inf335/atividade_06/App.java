@@ -12,13 +12,9 @@ import br.unicamp.ic.inf335.atividade_06.database.JDBC;
 import br.unicamp.ic.inf335.atividade_06.database.MongoDB;
 
 
-/**
- * Hello world!
- *
- */
 public class App 
 {
-public static void main(String[] args) {
+	public static void main(String[] args) {
 		
 		executarJDBC();
 
@@ -69,7 +65,7 @@ public static void main(String[] args) {
 		
 		System.out.println("Conectando com o MongoDB");
 		MongoDatabase db = MongoDB.conectarMongoDB("test", "mongodb://localhost");
-		MongoCollection<Document> colection = MongoDB.createCollection("produtos03", db);
+		MongoCollection<Document> colection = MongoDB.createCollection("produtos", db);
 		
 		System.out.println("Lista Original de Produtos");
 		lista.listaProdutosMongoDB(colection);
